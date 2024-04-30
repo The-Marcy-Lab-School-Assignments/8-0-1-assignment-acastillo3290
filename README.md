@@ -102,7 +102,7 @@ When you're done, push your code to github and [follow these steps to deploy usi
 **Deployment Technical Requirements**
 
 - [ ] Your GitHub page has a link to the deployed server in the About section. 
-
+<!-- add you URL here for deployment -->
 ## Bonus Challenge: 
 
 Find your first React assignment (the Language Greeter App) and copy it into this assignment. Run `npm run build` to generate the `dist` folder and update your server to serve your app instead of the default counter app.
